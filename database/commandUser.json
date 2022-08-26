@@ -1,0 +1,44 @@
+[
+  {
+    "jid": "6281384200380@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 10
+      },
+      {
+        "nama": "#stalkff",
+        "count": 2
+      },
+      {
+        "nama": "#welcome",
+        "count": 1
+      },
+      {
+        "nama": "#donasi",
+        "count": 3
+      }
+    ]
+  },
+  {
+    "jid": "6281511966418@s.whatsapp.net",
+    "db": [
+      {
+        "nama": "#menu",
+        "count": 1
+      },
+      {
+        "nama": "#donasi",
+        "count": 1
+      },
+      {
+        "nama": "#thanksto",
+        "count": 1
+      },
+      {
+        "nama": "#sticker",
+        "count": 2
+      }
+    ]
+  }
+]

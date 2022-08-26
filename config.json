@@ -1,0 +1,17 @@
+{
+  "ownerNumber": ["6281384200380@s.whatsapp.net"],
+  "ownerName": ["RaDhykka Store"],
+  "botName": "Hitomi Store",
+  "buttonName": "Group SewaBot",
+  "buttonLink": "https://chat.whatsapp.com/Daqh39CFd1I0WmuOqg73Ar",
+  "buttonName2": "Instagram",
+  "buttonLink2": "https://instagram.com/dhykkkz",
+  "sessionName": "session",
+  "pathimg": "./media/hitomi.jpg",
+  "gamewaktu": 60,
+  "limitCount": 10,
+  "gcount": {
+	"prem": 99999,
+	"user": 10
+  }
+}
